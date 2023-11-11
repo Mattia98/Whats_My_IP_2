@@ -1,0 +1,7 @@
+data/org.mattia98.whatsmyip2.desktop.in
+data/org.mattia98.whatsmyip2.appdata.xml.in
+data/org.mattia98.whatsmyip2.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="whatsmyip2">
+	<schema id="org.mattia98.whatsmyip2" path="/org/mattia98/whatsmyip2/">
+	</schema>
+</schemalist>

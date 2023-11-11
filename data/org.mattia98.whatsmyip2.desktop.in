@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=whatsmyip2
+Exec=whatsmyip2
+Icon=org.mattia98.whatsmyip2
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
